@@ -1,0 +1,27 @@
+_repo: Motor-Matt-s-Double-Trouble-or-The-Last-of-the-Hoodoo_53533
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Matthews, Stanley R.
+    gutenberg_agent_id: '43601'
+    url: http://www.gutenberg.org/2009/agents/43601
+description: ''
+gutenberg_issued: '2016-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53533'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Motorcycles -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+- !lcsh 'Jewel thieves -- Juvenile fiction'
+- !lcsh 'Dime novels'
+- !lcsh 'Automobiles -- Juvenile fiction'
+- !lcsh 'Mechanics -- Juvenile fiction'
+- GITenberg
+title: Motor Matt's Double Trouble; or, The Last of the Hoodoo
+url: http://www.gutenberg.org/ebooks/53533
